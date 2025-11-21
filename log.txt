@@ -1,3 +1,4 @@
+31466ab Task 2.2
 2c95d69 Task 2.1
 d59a7cc Extracting the switch statement logic (steps 1-4)
 bd6d3af Task 1.2
